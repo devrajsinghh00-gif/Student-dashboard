@@ -14,6 +14,9 @@ A responsive learning dashboard built with Next.js App Router, Supabase, Tailwin
 
 ## Setup
 
+*site working live link: https://student-dashboard-eta-hazel.vercel.app/*
+
+
 1. Copy `.env.example` to `.env.local` and update it with your Supabase values.
 
 ```env
